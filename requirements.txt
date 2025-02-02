@@ -8,3 +8,6 @@ wikipedia
 tiktoken 
 langchain-google-genai
 yfiles_jupyter_graphs
+streamlit
+uvicorn
+fastapi
