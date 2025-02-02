@@ -76,9 +76,9 @@
 
 ## Video Demonstration
 
-Watch our project demonstration video:
+Check out the video demonstration of the project:
 
-[![Customer Support LangChain](notebook/Customer Suppport Langchan .mp4)]
+[Video Demonstration](notebook/Customer%20Support%20LangChain.mp4)
 
 ## License
 
