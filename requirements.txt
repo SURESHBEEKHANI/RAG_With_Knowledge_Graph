@@ -2,3 +2,9 @@ langchain
 langchain-community 
 langchain-groq 
 neo4j
+langchain_experimental
+langchain-neo4j
+wikipedia 
+tiktoken 
+langchain-google-genai
+yfiles_jupyter_graphs
